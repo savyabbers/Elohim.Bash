@@ -1,0 +1,20 @@
+#!/bin/bash
+
+while true ; do
+   cat eye
+   sleep 5
+   #clear
+
+   cat eye2
+   sleep .1
+   #clear
+
+   cat eye3
+   sleep .1
+   #clear
+
+   cat eye2
+   sleep .1
+   #clear
+   
+done
